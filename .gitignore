@@ -1,0 +1,16 @@
+.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+dist/
+build/
+*.spec
+.DS_Store
+Thumbs.db
+*.wav
+*.flac
+*.ogg
+!tests/fixtures/.gitkeep
+profiles.json
+samples/
